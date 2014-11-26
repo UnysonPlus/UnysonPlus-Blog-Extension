@@ -9,4 +9,5 @@ $manifest['description'] = __( 'Blog Posts', 'fw' );
 $manifest['version'] = '1.0.0';
 $manifest['display'] = false;
 $manifest['standalone'] = true;
-// todo: add update url
+
+$manifest['github_update'] = 'ThemeFuse/Unyson-Blog-Extension';
