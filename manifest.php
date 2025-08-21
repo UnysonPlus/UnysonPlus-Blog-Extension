@@ -6,7 +6,7 @@ $manifest['name']        = __( 'Blog Posts', 'fw' );
 $manifest['slug']        = 'unysonplus-blog-posts';
 $manifest['description'] = __( 'This extension adds Blog Posts functionality.', 'fw' );
 
-$manifest['version']     = '1.0.2';
+$manifest['version']     = '1.0.4';
 $manifest['display']     = false;
 $manifest['standalone']  = true;
 
